@@ -1,3 +1,5 @@
-# diagrama de clases uml
+# Diagrama de clases UML
 
 ![Diagrama](assets/diagramaDeClases.png)
+
+
