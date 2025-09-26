@@ -31,10 +31,10 @@ public abstract class Vehiculo implements Combustible{
     }
 
     public void decrementCombustibleDisponible(){
-        if(this.combustibleDisponible -10 < 0){
+        if(this.combustibleDisponible - 10 < 0){
             System.out.println("Recarga combustible para poder moverte");
         }else{
-            this.combustibleDisponible = this.combustibleDisponible -10;
+            this.combustibleDisponible = this.combustibleDisponible - 10;
         }
     }
 
